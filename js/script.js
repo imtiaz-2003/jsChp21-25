@@ -179,6 +179,7 @@ function replace()
 
     // let cnicWithoutDashes = cnic.replace(word , repaceWith)
     // console.log(cnicWithoutDashes);
+    // console.log(cnicWithoutDashes);
 
 let NewOriginalText = original.toLowerCase();
 let word = document.getElementById("input").value;
