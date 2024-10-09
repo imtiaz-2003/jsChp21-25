@@ -185,7 +185,7 @@ let NewOriginalText = original.toLowerCase();
 let word = document.getElementById("input").value;
 if(!word)
 {
-    alert("please type word in input field !");
+    alert("please type word in input field!");
     return;
 }
 
