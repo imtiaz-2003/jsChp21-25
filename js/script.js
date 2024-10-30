@@ -176,9 +176,10 @@ function replace()
     // let word= "-";
     // let repaceWith = "";
     // word = new RegExp(word , 'g');
-
     // let cnicWithoutDashes = cnic.replace(word , repaceWith)
     // console.log(cnicWithoutDashes);
+
+
     // console.log(cnicWithoutDashes);
 
 let NewOriginalText = original.toLowerCase();
